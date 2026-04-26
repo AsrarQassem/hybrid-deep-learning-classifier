@@ -76,7 +76,7 @@ Each model outputs a probability distribution over classes.
 * Validation Split: 20%
 
 ---
-## license
+## License
 
 <span style="font-size:0.9em; white-space:nowrap;">
   <a href="https://github.com/AsrarQassem/hybrid-deep-learning-classifier">hybrid-deep-learning-classifier</a> © 2024 by 
